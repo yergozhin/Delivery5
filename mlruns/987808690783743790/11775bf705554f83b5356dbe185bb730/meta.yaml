@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/yerzhan.yergozhin/Downloads/suml/mlruns/987808690783743790/11775bf705554f83b5356dbe185bb730/artifacts
+end_time: 1765359644351
+entry_point_name: ''
+experiment_id: '987808690783743790'
+lifecycle_stage: active
+run_id: 11775bf705554f83b5356dbe185bb730
+run_name: RandomForest
+run_uuid: 11775bf705554f83b5356dbe185bb730
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765359639252
+status: 3
+tags: []
+user_id: yerzhan.yergozhin

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1765359652192
+current_stage: None
+description: null
+last_updated_timestamp: 1765359652192
+name: IrisModel
+run_id: b154fc068ab447eab95b306e1416927e
+run_link: null
+source: file:///Users/yerzhan.yergozhin/Downloads/suml/mlruns/987808690783743790/b154fc068ab447eab95b306e1416927e/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Users/yerzhan.yergozhin/Downloads/suml/mlruns/987808690783743790/b154fc068ab447eab95b306e1416927e/artifacts/model
+user_id: null
+version: 2
